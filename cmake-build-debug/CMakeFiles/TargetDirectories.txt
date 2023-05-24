@@ -1,0 +1,3 @@
+/home/illithid/jenkins-cpp-test/Hello_Jenkins/cmake-build-debug/CMakeFiles/untitled.dir
+/home/illithid/jenkins-cpp-test/Hello_Jenkins/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/illithid/jenkins-cpp-test/Hello_Jenkins/cmake-build-debug/CMakeFiles/rebuild_cache.dir
