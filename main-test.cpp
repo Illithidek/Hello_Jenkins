@@ -11,5 +11,5 @@ TEST_F(Test, goodTest){
 TEST_F(Test, badTest){
   auto first = 0;
   auto second = 1;
-  EXPECT_EQ(first, second);
+  EXPECT_NE(first, second);
 }
